@@ -1,5 +1,5 @@
 # Process of adding JavaSelectedCodeExecutor to Visual Studio Code
-あ
+
 ## github page
 
 https://ksp-kitam.github.io/JavaCodeSelectionRunner_install_slide
