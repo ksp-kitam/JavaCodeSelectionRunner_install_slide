@@ -23,7 +23,7 @@ transition: slide-left
 
 下記のリンクから拡張機能ファイルをダウンロードします。
 
-https://github.com/ksp-kitam/JavaCodeSelectionRunner/releases/download/v1.0.0/JavaCodeSelectionRunner-1.0.0.vsix
+https://github.com/ksp-kitam/JavaCodeSelectionRunner/releases/download/v1.0.2/JavaCodeSelectionRunner-1.0.2.vsix
 
 <img class="h-70" src="/Vscode-Download.png">
 
